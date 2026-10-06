@@ -1,51 +1,20 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 🚀 Guia Prático: Engenharia de Prompt para Iniciantes
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um e-book educativo desenhado para ensinar os conceitos fundamentais de Engenharia de Prompt para IAs generativas de texto e imagem.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+* **ChatGPT:** Geração do conteúdo textual dos capítulos e exemplos práticos.
+* **Claude:** Revisão e refinamento do tom de voz.
+* **Markdown:** Estruturação visual limpa e direta.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Definição de Escopo:** Mapeamento dos conceitos essenciais que um iniciante precisa saber sobre IAs generativas.
+2. **Geração e Refinamento:** Utilização de prompts encadeados no ChatGPT para estruturar cada capítulo com exemplos de "Antes vs. Depois".
+3. **Revisão Humana:** Curadoria do texto final para garantir precisão técnica e clareza.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book foi estruturado e disponibilizado diretamente no repositório como guia de consulta rápida.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Criar conteúdo 'Natty' (natural) exige que a IA seja guiada de forma precisa. O verdadeiro valor da IA Generativa surge do refinamento das instruções e da curadoria humana do resultado.
